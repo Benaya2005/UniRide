@@ -12,3 +12,5 @@ The app also includes an **Admin** interface to manage users, verify drivers, an
 
 ---
 
+#Slides of the project
+https://www.canva.com/design/DAG0kt42_pE/4KdLZ-fo-7GqeZYV9nKjkg/edit?utm_content=DAG0kt42_pE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
