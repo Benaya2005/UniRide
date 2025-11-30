@@ -34,7 +34,8 @@ Campus ride-sharing made simple! Connect with verified drivers from your univers
 1. Sign up with university email
 2. Find rides or offer yours
 3. Connect & ride!
-
+##Updated Slides link
+https://www.canva.com/design/DAG0kt42_pE/4KdLZ-fo-7GqeZYV9nKjkg/edit?utm_content=DAG0kt42_pE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 *Campus rides, simplified!*
