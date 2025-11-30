@@ -1,16 +1,40 @@
-# UniRide 🚗🎓
+# UniRide
 
-## Overview  
-**UniRide** is a campus-based ride-sharing and on-demand transport application designed to make mobility easier for students, staff, and visitors.  
-It allows users to **offer rides or request seats** for trips both **inside and outside the campus**, helping to reduce traffic, save time, and promote sustainable transport.
+Campus ride-sharing made simple! Connect with verified drivers from your university community for convenient and affordable transportation.
 
-UniRide provides two main user roles:
-- **Riders** – who can browse available rides, book a seat, or schedule a future ride.
-- **Drivers** – who can publish ride offers, accept requests, and manage their trips.
+## What UniRide Does
 
-The app also includes an **Admin** interface to manage users, verify drivers, and monitor system activity.
+**For Riders:**
+- Find rides instantly with real-time updates
+- Book seats with automatic fare calculation  
+- Contact drivers via WhatsApp
+- Choose inside/outside campus trips
+
+**For Drivers:**
+- Create ride offers easily
+- Manage passengers & seats in real-time
+- Get verified through admin approval
+- Communicate directly with riders
+
+## Built With
+
+**Frontend:** Android (Java)  
+**Backend:** Firebase (Auth, Firestore, Storage)  
+**Maps:** Google Maps & Places API  
+**Real-time:** Firestore Live Updates  
+**Communication:** WhatsApp Integration
+
+## Smart Architecture
+
+- Singleton Pattern for Firebase & Session management
+- Adapter Pattern for smooth lists & data display...
+
+## Quick Start
+
+1. Sign up with university email
+2. Find rides or offer yours
+3. Connect & ride!
 
 ---
 
-# Slides of the project
-https://www.canva.com/design/DAG0kt42_pE/4KdLZ-fo-7GqeZYV9nKjkg/edit?utm_content=DAG0kt42_pE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+*Campus rides, simplified!*
